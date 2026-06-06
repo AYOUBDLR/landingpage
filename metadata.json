@@ -1,0 +1,6 @@
+{
+  "name": "Walmart Reward Center",
+  "description": "A high-fidelity landing page for claiming Walmart gift card rewards, featuring step-by-step registration, custom deal validation, and Frequently Asked Questions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
